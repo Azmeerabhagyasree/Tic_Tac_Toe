@@ -1,4 +1,4 @@
-
+```c
         Tic Tac Toe
 
 Player 1 (X)  -  Player 2 (O)
@@ -185,3 +185,4 @@ _____|_____|_____
 
 ==>Game draw
 
+```c
